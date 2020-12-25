@@ -8,6 +8,7 @@ Red
 green
 Yellow
 Black
+Violet
 
 These are  the colors of the rainbow
 
